@@ -1,6 +1,6 @@
 <?php 
 
-	// echo 'hello, ninjas';
+	// echo 'hello, semua';
 
 ?>
 
@@ -10,6 +10,6 @@
 	<title>my first PHP file</title>
 </head>
 <body>
-	<h1><?php echo 'hello, ninjas' ?></h1>
+	<h1><?php echo 'hello, semua' ?></h1>
 </body>
 </html>

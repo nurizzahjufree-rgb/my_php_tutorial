@@ -13,9 +13,9 @@
 	//echo 5 <= 5;
 	//echo 5 >= 5;
 
-	// strings
+	// strings (compare huruf kecik huruf besar, lowecase have higher ASCII)
 	//echo 'shaun' < 'yoshi';
-	//echo 'shaun' > 'yoshi';
+	//echo 'shaun' > 'Yoshi';
 	//echo 'shaun' > 'Shaun';
 	//echo 'mario' == 'mario';
 	//echo 'mario' == 'Mario';
